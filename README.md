@@ -11,6 +11,8 @@ $ bin/rails db:migrate
 
 ## Caching
 
+https://github.com/kaiquekandykoga/labs_rails8_getting_started/pull/5
+
 ```
 $ bin/rails dev:cache
 Action Controller caching enabled for development mode.
