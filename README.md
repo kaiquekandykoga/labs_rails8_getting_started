@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Authentication
 
-Things you may want to cover:
+https://github.com/kaiquekandykoga/labs_rails8_getting_started/pull/3
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+$ bin/rails generate authentication
+$ bin/rails db:migrate
+```
