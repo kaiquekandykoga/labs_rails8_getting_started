@@ -23,7 +23,7 @@ jobs:
 
       - name: Set up database
         run: |
-          bin/rails db:setup
+          bin/rails db:prepare
         env:
           RAILS_ENV: test
 
